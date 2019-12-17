@@ -8,11 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
           Hi There Brahma
-=======
-          I am here.
->>>>>>> first commit
         </p>
         <a
           className="App-link"
