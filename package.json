@@ -1,17 +1,5 @@
 {
   "name": "frontend",
-<<<<<<< HEAD
-  "version": "1.0.0",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-=======
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +31,4 @@
       "last 1 safari version"
     ]
   }
->>>>>>> first commit
 }
